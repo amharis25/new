@@ -13,7 +13,7 @@ define(
          columns:
          {
             name: {
-               field: 'Name',
+               field: 'haris',
                label: 'Name',
                renderCell: function(item, value, node, options)
                {
